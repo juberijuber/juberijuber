@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JUBER B</h1>
-<h3 align="center">A passionate Mobile Application Developer</h3>
+<h3 align="center">A Passionate Machine Learning Engineer</h3>
 
 
 
