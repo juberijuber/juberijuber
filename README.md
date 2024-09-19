@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **juberijuber989@gmail.com**
 
-- 📄 Know about my Resume https://drive.google.com/file/d/1gk_omNlpBFG9yvgBGLX8U4Xr6hxKv4TK/view?usp=sharing
+- 📄 Know about my Resume https://drive.google.com/file/d/1LqHi2e0HPvDwlAFs6-WqSh4fnhVIyOS_/view?usp=sharing
 
 
 <h3 align="left">Connect with me:</h3>
