@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JUBER B</h1>
 <h3 align="center">A Passionate Machine Learning Engineer</h3>
 
-- Portfolio https://juberijuber.github.io/Portfolio/
+- 💌 Portfolio https://juberijuber.github.io/Portfolio/
 
 - 📫 How to reach me **juberijuber989@gmail.com**
 
