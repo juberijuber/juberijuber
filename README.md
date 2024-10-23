@@ -24,7 +24,6 @@
 
 ![Leet Code](https://leetcode.card.workers.dev/juber_b?theme=dark&font=milonga&extension=null)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juberijuber&show_icons=true&theme=radical)
 
 <img alt='my stats' src="https://github-readme-stats.vercel.app/api?username=juberijuber&show_icons=true&theme=highcontrast"/>
 
