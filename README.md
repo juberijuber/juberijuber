@@ -28,8 +28,6 @@
 </picture>
 <h1></h1>
 
-
-
 <h3 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h3>
 <p align="center">
   <a href="https://github.com/juberijuber">
