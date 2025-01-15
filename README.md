@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **juberijuber989@gmail.com**
 
-- 📄 Know about my Resume https://drive.google.com/file/d/1LqHi2e0HPvDwlAFs6-WqSh4fnhVIyOS_/view?usp=sharing
+- 📄 Know about my Resume [Resume Link](https://drive.google.com/file/d/1LqHi2e0HPvDwlAFs6-WqSh4fnhVIyOS_/view?usp=sharing)
 
 <h1></h1>
 
@@ -48,7 +48,7 @@
 <!--Contribution Graph-->
 <h3 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h3>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jeyachandranj&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=juberijuber&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 <br>
 
