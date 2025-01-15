@@ -13,9 +13,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="mailto:juberijuber989@gmail.com" target="blank"><img align="center" src="mail-logo.png" alt="juberijuber" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juberijuber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juberijuber" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Juber_B/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Juber_B" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/juberijuber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="juberijuber" height="30" width="40" /></a>
+<a href="https://www.instagram.com/call_me_mr_juber/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juberijuber" height="30" width="40" /></a>
+<a href="https://www.github.com/juberijuber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="juberijuber" height="30" width="40" /></a>
 </p>
 
 <h1></h1>
