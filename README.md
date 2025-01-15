@@ -9,6 +9,9 @@
 
 - 📄 Know about my Resume [Resume Link](https://drive.google.com/file/d/1LqHi2e0HPvDwlAFs6-WqSh4fnhVIyOS_/view?usp=sharing)
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=juberijuber&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="juberijuber" style="padding-right:100;" />
+</p>
 
 
 
