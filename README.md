@@ -42,9 +42,22 @@
 </div>
 <br>
 
-<img alt='my stats' src="https://github-readme-stats.vercel.app/api?username=juberijuber&show_icons=true&theme=highcontrast"/>
+<img align="right" alt='my stats' src="https://github-readme-stats.vercel.app/api?username=juberijuber&show_icons=true&theme=highcontrast"/>
 
-<img alt='my languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=juberijuber&layout=compact&theme=highcontrast'/>
+<img align="center" alt='my languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=juberijuber&layout=compact&theme=highcontrast'/>
+
+<h1></h1>
+
+<h3 align="center">🎯 LᴇᴇᴛCᴏᴅᴇ Sᴛᴀᴛs 🎯</h3>
+
+<h4 align="center">Check out my LeetCode stats to see my progress in problem-solving!</h4>
+<p align="center">
+  <a href="https://leetcode.com/juberijuber" target="_blank">
+    <img title="Juber_B's LeetCode Stats" alt="Juber_B's LeetCode Stats" src="https://leetcard.jacoblin.cool/Juber_B?ext=heatmap" />
+  </a>
+</p>
+
+<div align="center">
 
 <h1></h1>
 
