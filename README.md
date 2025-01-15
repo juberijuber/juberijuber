@@ -1,6 +1,6 @@
 ![juberijuber Banner Image](./Banner.png)
 
-<h1 align="center">Hi 👋, I'm JUBER B</h1>
+<h1 align="center">Hi 👋🏻, I'm JUBER B</h1>
 <h3 align="center">A Passionate AI & ML Engineer</h3>
 
 - 💌 Portfolio https://juberijuber.github.io/Portfolio/
@@ -48,7 +48,7 @@
 
 <h1></h1>
 
-<h3 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h3>
+<h3 align="center">🤝🏻 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝🏻</h3>
 
 <p align="center">
 <a href="https://www.github.com/juberijuber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="juberijuber" height="30" width="40" /></a>
