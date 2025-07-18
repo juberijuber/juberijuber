@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **juberijuber989@gmail.com**
 
-- 📄 Know about my Resume [Resume Link](https://drive.google.com/file/d/1ORpBABSQ-GtqK_vV5pCpQRTggthbQSGS/view?usp=sharing)
+- 📄 Know about my Resume [Resume Link](https://drive.google.com/file/d/1QOlbkcDqiBzoX_QCI4Y2LHp-3bOu0i6r/view?usp=sharing)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=juberijuber&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="juberijuber" style="padding-right:100;" />
