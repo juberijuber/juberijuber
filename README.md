@@ -1,74 +1,155 @@
-![juberijuber Banner Image](./Banner.png)
+<img src="./Banner.png"/>
 
-<h1 align="center">Hi 👋🏻, I'm JUBER B</h1>
-<h3 align="center">👨🏻‍💻 A Pᴀssɪᴏɴᴀᴛᴇ AI & ML Eɴɢɪɴᴇᴇʀ 👨🏻‍💻</h3>
+<h1 align="center">Hi 👋, I'm Juber B</h1>
 
-- 💌 Portfolio https://juberijuber.github.io/Portfolio/
-
-- 📫 How to reach me **juberijuber989@gmail.com**
-
-- 📄 Know about my Resume [Resume Link](https://drive.google.com/file/d/129YdYTMaTN8Fw2DygxgLS0RnC99uyGYg/view?usp=sharing)
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=juberijuber&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="juberijuber" style="padding-right:100;" />
-</p>
-
-
-
-<h1></h1>
-
-<h3 align="center">👾 Tᴇᴄʜ Sᴛᴀᴄᴋs 👾</h3>
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a> 
-</p>
-
-<h1></h1>
-
-<h3 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs  🏆</h3>
-<p align="center">
-  <a href="https://github.com/juberijuber">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=juberijuber&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=juberijuber&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=juberijuber&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-
-<h1></h1>
-<!--Contribution Graph-->
-<h3 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h3>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=juberijuber&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
-</div>
-<br>
-
-<img align="right" alt='my stats' src="https://github-readme-stats.vercel.app/api?username=juberijuber&show_icons=true&theme=highcontrast"/>
-
-<img align="center" alt='my languages' src='https://github-readme-stats.vercel.app/api/top-langs/?username=juberijuber&layout=compact&theme=highcontrast'/>
-
-<h1></h1>
-
-<h3 align="center">🎯 LᴇᴇᴛCᴏᴅᴇ Sᴛᴀᴛs 🎯</h3>
-
-<h4 align="center">Check out my LeetCode stats to see my progress in problem-solving!</h4>
-<p align="center">
-  <a href="https://leetcode.com/juberijuber" target="_blank">
-    <img title="Juber_B's LeetCode Stats" alt="Juber_B's LeetCode Stats" src="https://leetcard.jacoblin.cool/Juber_B?ext=heatmap" />
-  </a>
-</p>
-
-<div align="center">
-
-<h1></h1>
-
-<h3 align="center">🤝🏻 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝🏻</h3>
+<h3 align="center">
+AI • Machine Learning • Full Stack Developer
+</h3>
 
 <p align="center">
-<a href="https://www.github.com/juberijuber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="juberijuber" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/juberijuber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juberijuber" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Juber_B/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Juber_B" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/juberijuber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="juberijuber" height="30" width="40" /></a>
-<a href="https://www.instagram.com/call_me_mr_juber/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juberijuber" height="30" width="40" /></a>
-<a href="mailto:juberijuber989@gmail.com" target="blank"><img align="center" src="icons8-gmail-48.png" alt="juberijuber" height="40 width="30" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+%26+ML+Engineer;Full+Stack+Developer;React+%7C+Node+%7C+Python;Always+Learning+New+Things" />
 </p>
 
+---
+
+# 👨‍💻 About Me
+
+- 🔭 Currently working as **Junior Developer**
+- 🎓 Student of **Kongu Engineering College**
+- 💡 Interested in **AI, Machine Learning, Web Development**
+- 🚀 Passionate about building **AI powered applications**
+- 📫 Reach me at **juberijuber989@gmail.com**
+
+---
+
+# 🌐 Portfolio
+
+🌍 **Portfolio Website**
+
+🔗 [Explore more about me](https://juberijuber.github.io/Portfolio/)
+
+📄 **Resume**
+
+🔗 [Check it out](https://drive.google.com/file/d/129YdYTMaTN8Fw2DygxgLS0RnC99uyGYg/view)
+
+---
+
+# 🛠 Tech Stack
+
+### 💻 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### 🌐 Web Development
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![REST API](https://img.shields.io/badge/REST_API-grey?style=for-the-badge)
+
+---
+
+### 📱 Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+
+---
+
+### 🧠 AI / Machine Learning
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
+![CNN](https://img.shields.io/badge/CNN-orange?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-red?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-green?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+---
+
+### 🗄 Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![SQL](https://img.shields.io/badge/SQL-darkblue?style=for-the-badge)
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=juberijuber&theme=tokyonight"/>
+
+
+</p>
+
+---
+
+
+# 📊 GitHub Contribution Insights
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juberijuber&theme=tokyonight"/>
+</p>
+
+---
+
+# 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Juber_B?theme=dark&font=baloo&ext=heatmap"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/juberijuber">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://linkedin.com/in/juberijuber">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://leetcode.com/u/Juber_B/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode">
+</a>
+
+<a href="https://www.hackerrank.com/profile/juberijuber">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank">
+</a>
+
+<a href="https://www.instagram.com/call_me_mr_juber/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram">
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=juberijuber&style=for-the-badge&color=blue"/>
+</p>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+</p>
