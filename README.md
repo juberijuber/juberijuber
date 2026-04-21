@@ -30,7 +30,7 @@ AI • Machine Learning • Full Stack Developer
 
 📄 **Resume**
 
-🔗 [Check it out](https://drive.google.com/file/d/129YdYTMaTN8Fw2DygxgLS0RnC99uyGYg/view)
+🔗 [Check it out](https://drive.google.com/file/d/10ibF-49NdRCQtRWvEnYbM6c7GItOA1Fw/view?usp=drive_link)
 
 ---
 
